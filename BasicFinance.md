@@ -1,6 +1,4 @@
-# Quant
-
-## Finance
+# Finance
 Study of managing, moving, growing money and reducing financial risk  
 Capital = money/resource to gen more value  
 + use own profits
